@@ -7,4 +7,4 @@
 
 
 
-I created a custom python package for binomial and gaussian distributions. 
+#I created a custom python package for binomial and gaussian distributions. 
